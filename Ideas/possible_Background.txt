@@ -1,0 +1,8 @@
+background-color: #052F5F;
+opacity: 0.8;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #052F5F 10px ), repeating-linear-gradient( #D5C67A55, #D5C67A );
+
+
+
+/****Cackground 2 ++++++*/
+

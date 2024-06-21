@@ -1,0 +1,10 @@
+body {
+    background-color: #052F5F;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23052F5F' cx='50' cy='0' r='50'/%3E%3Cg fill='%23213267' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%2335356e' cx='50' cy='100' r='50'/%3E%3Cg fill='%23483673' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%235a3878' cx='50' cy='200' r='50'/%3E%3Cg fill='%236c387a' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%237e397b' cx='50' cy='300' r='50'/%3E%3Cg fill='%238f397b' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%239f3979' cx='50' cy='400' r='50'/%3E%3Cg fill='%23af3a76' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23bd3c71' cx='50' cy='500' r='50'/%3E%3Cg fill='%23cb406b' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23d64664' cx='50' cy='600' r='50'/%3E%3Cg fill='%23e04d5d' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23e85754' cx='50' cy='700' r='50'/%3E%3Cg fill='%23ef614b' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f36d41' cx='50' cy='800' r='50'/%3E%3Cg fill='%23f67936' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f6872b' cx='50' cy='900' r='50'/%3E%3Cg fill='%23f5941d' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23F1A208' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+/* Source of the original Background 
+https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/ */
+/* I changed the colours to fit my wishes */
