@@ -1,0 +1,36 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: yellow;
+    opacity: 0.5;
+}
+
+body {
+    background-image: url(./../img/selcuk-sarikoz-VLlD9PtuLmo-unsplash.jpg);
+    background-position: center;
+    background-size: 100vw;
+    justify-content: center;
+}
+
+/* Styling of the bigger Elements*/
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Stylen der Sections. Sie dienen der semantischen Unterteilung der thematischen Links*/
+section {
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 40%;
+    max-width: 50vw;
+    height: auto;
+}
